@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My Blog
+# Hevelius
 
 Welcome to my blog! Here are some of my latest posts:
 
