@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Rising Power of Artificial Intelligence: Revolutionizing Industries and Transforming Lives
+title: The Rising Power of Artificial Intelligence
 date: 2023-05-21
 ---
 
