@@ -1,4 +1,4 @@
 markdown: kramdown
-remote_theme: daattali/beautiful-jekyll@v5.0.0
+remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
 - jekyll-remote-theme
