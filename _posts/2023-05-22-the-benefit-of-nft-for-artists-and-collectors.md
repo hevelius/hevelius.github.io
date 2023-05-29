@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of NFTs for Artists and Collectors
-date: 2021-05-22
+date: 2023-05-22
 ---
 NFTs (non-fungible tokens) are rapidly becoming an important part of the art world, providing an innovative way for artists and collectors to interact with each other. In this article, we’ll explore the various benefits of NFTs and explain why they are becoming increasingly popular.
 
